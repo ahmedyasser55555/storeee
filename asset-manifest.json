@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/storeee/static/css/main.c2cab247.css",
+    "main.js": "/storeee/static/js/main.42bc90c4.js",
+    "static/media/تناسق-الألوان-في-الملابس-الرجالي-7.jpg": "/storeee/static/media/تناسق-الألوان-في-الملابس-الرجالي-7.c93bdf928f0520159c27.jpg",
+    "service-worker.js": "/storeee/service-worker.js",
+    "static/media/تنسيق-ألوان١.jpeg": "/storeee/static/media/تنسيق-ألوان١.7389f1b4ee9ccd3a6d74.jpeg",
+    "static/media/تنسيق-ملابس-الرجال2.jpg": "/storeee/static/media/تنسيق-ملابس-الرجال2.6dedeaf916ce7728b56e.jpg",
+    "index.html": "/storeee/index.html",
+    "main.c2cab247.css.map": "/storeee/static/css/main.c2cab247.css.map",
+    "main.42bc90c4.js.map": "/storeee/static/js/main.42bc90c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.42bc90c4.js"
+  ]
+}
